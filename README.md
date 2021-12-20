@@ -1,3 +1,3 @@
 # WordReplacer
-Replaces substrings of a string
-nothing too crazy, my first c++ project and github repo
+Replaces substrings of a string\
+Nothing too crazy, my first c++ project and github repo
